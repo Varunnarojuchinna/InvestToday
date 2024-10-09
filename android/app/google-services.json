@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "841324790556",
+    "firebase_url": "https://investoday-dev-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "investoday-dev",
+    "storage_bucket": "investoday-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841324790556:android:280b808b276f086b1770d9",
+        "android_client_info": {
+          "package_name": "com.investtoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841324790556-0od0tfhbktpn4fs8eadr93d2qf9j3uqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_wRZbpVZKBhsuWHbn3BxIDJApULYV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841324790556-0od0tfhbktpn4fs8eadr93d2qf9j3uqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841324790556-hmdj3qu2v766pqhve67v172voj0fcenj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "investoday-ios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841324790556:android:457be0cf531f10c71770d9",
+        "android_client_info": {
+          "package_name": "com.investtoday.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841324790556-0od0tfhbktpn4fs8eadr93d2qf9j3uqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_wRZbpVZKBhsuWHbn3BxIDJApULYV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841324790556-0od0tfhbktpn4fs8eadr93d2qf9j3uqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841324790556-hmdj3qu2v766pqhve67v172voj0fcenj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "investoday-ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

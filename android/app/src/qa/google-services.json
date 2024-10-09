@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303817912961",
+    "project_id": "investoday-qa-429112",
+    "storage_bucket": "investoday-qa-429112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303817912961:android:d29951fe0b56d2f5149380",
+        "android_client_info": {
+          "package_name": "com.investtoday.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303817912961-vitj35n0hvrpcqfo494uosf12291ghja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJGwzTi8Lvy29h5sasYKsFgbCN4aEwgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303817912961-vitj35n0hvrpcqfo494uosf12291ghja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

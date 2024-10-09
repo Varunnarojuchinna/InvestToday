@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503888032959",
+    "project_id": "scientific-glow-436616-g5",
+    "storage_bucket": "scientific-glow-436616-g5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503888032959:android:48890e6e6c6f4ade80820a",
+        "android_client_info": {
+          "package_name": "com.investtoday.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503888032959-n8gtjgv10hfhvl8sbf298hnpcakj1prm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQUW7kVTg2TSTl6kemFxP_RrO3UmjYiZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503888032959-n8gtjgv10hfhvl8sbf298hnpcakj1prm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
