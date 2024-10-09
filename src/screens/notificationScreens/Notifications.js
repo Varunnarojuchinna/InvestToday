@@ -9,7 +9,8 @@ import { bindActionCreators } from 'redux';
 
 const notificationTypes = {
   1:'Push',
-  2:'General'
+  2:'General',
+  3:'Alert'
 };
 const NotificationStatus = {
   OPEN: 1,
